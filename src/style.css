@@ -1,0 +1,19 @@
+#message{
+    font-size: 48px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+#key{
+    font-size: 48px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+#new-game{
+    padding: 10px 15px;
+    color: antiquewhite;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+}
